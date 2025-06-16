@@ -1,0 +1,6 @@
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("szrlee/stock-time-series-20050101-to-20171231")
+
+print("Path to dataset files:", path)
