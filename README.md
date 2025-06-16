@@ -61,7 +61,7 @@ Install dependencies:
 pip install pandas matplotlib seaborn
 ```
 
-## 📊 Example Outputs
+## 📊  Outputs
 
 * **Annual Summary:** Open, Close, High, Low, Adj Close, Total Volume, Avg Daily Return, Volatility
 * **Monthly Summary:** Same metrics grouped by year and month
@@ -73,6 +73,8 @@ pip install pandas matplotlib seaborn
 * Import CSVs directly for table visualizations
 * Use saved plots in image tiles
 * Build KPIs, line charts, bar charts, heatmaps based on output files
+* ![image](https://github.com/user-attachments/assets/6bf62556-cad8-4e54-b53c-72e91ffdf518)
+
 
 ## 📄 License
 
